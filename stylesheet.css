@@ -1,0 +1,8 @@
+#pokeDiv,#listaLibros,#listaPersonajes{
+    height:200px;
+    width:60%;
+    overflow:scroll;
+    border-radius: 30px;
+    background-color: antiquewhite;
+    margin-bottom: 5%;
+}
